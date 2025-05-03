@@ -2,6 +2,8 @@
 
 Dubee Subee is a **portable video management tool** designed to simplify the process of **removing audio tracks** and **subtitles** from your videos. Featuring a clean, **file manager-like UI**, Dubee Subee allows you to **batch process** or **individually process** video files, making it easier than ever to edit and manage video content. Whether you want to **remove unwanted audio tracks** or **clean up subtitles**, **Dubee Subee** makes the task quick and easy. 💻🎥
 
+This application was developed to address the inconvenience of repeatedly switching audio tracks or subtitles each time I play a video. This app streamlines the process by allowing users to permanently retain their preferred audio and subtitle tracks—ensuring compatibility with any video player. As an added benefit, it also helps reduce overall file size by removing unnecessary content.
+
 ---
 
 ## 🚀 **Features**:
